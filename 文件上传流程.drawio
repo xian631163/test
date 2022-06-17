@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T17:16:41.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="a0zmnwqBzkVEW_ssgHr5" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T17:16:58.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WVK8f-q4WUNoXcXjQUTi" version="20.0.1" type="github">
   <diagram id="VuLt2vJsOYCiin1lV97F" name="Page-1">
     <mxGraphModel dx="1038" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,68 +11,68 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="86" width="90" height="40" as="geometry" />
+          <mxGeometry x="348" y="86" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-10" target="1YPeotsfrwb8P1-ovOkX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-10" value="文件上传并发数加1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="243" width="105" height="45" as="geometry" />
+          <mxGeometry x="340.5" y="243" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-12" target="1YPeotsfrwb8P1-ovOkX-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-12" value="分片文件上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="316" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="340.5" y="316" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-13" target="1YPeotsfrwb8P1-ovOkX-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-13" value="查询视频已上传分片信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="166" width="105" height="45" as="geometry" />
+          <mxGeometry x="208" y="166" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-19" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-17" target="1YPeotsfrwb8P1-ovOkX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-17" value="文件上传并发数达到最大阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="158" width="105" height="50" as="geometry" />
+          <mxGeometry x="340.5" y="158" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-21" target="1YPeotsfrwb8P1-ovOkX-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-21" value="上传影像平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="386" width="105" height="40" as="geometry" />
+          <mxGeometry x="340.5" y="386" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-22" target="1YPeotsfrwb8P1-ovOkX-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-22" value="记录分片信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="525" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="340.5" y="525" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-28" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-23" target="1YPeotsfrwb8P1-ovOkX-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-23" value="上传成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="353.75" y="446" width="105" height="50" as="geometry" />
+          <mxGeometry x="341.75" y="446" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-29" target="1YPeotsfrwb8P1-ovOkX-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-29" value="文件上传并发数减1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="593" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="340.5" y="593" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-32" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="227.5" y="236" width="90" height="40" as="geometry" />
+          <mxGeometry x="215.5" y="236" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-37" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-34" target="1YPeotsfrwb8P1-ovOkX-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PEv6WC0p9GBlR8glV_Bn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1YPeotsfrwb8P1-ovOkX-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="417" y="138" as="targetPoint" />
+            <mxPoint x="405" y="138" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="681" />
-              <mxPoint x="520" y="138" />
+              <mxPoint x="508" y="681" />
+              <mxPoint x="508" y="138" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,16 +82,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-34" value="全部已上传" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="353.75" y="656" width="105" height="50" as="geometry" />
+          <mxGeometry x="341.75" y="656" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-36" target="1YPeotsfrwb8P1-ovOkX-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-36" value="记录分片信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="735" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="340.5" y="735" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YPeotsfrwb8P1-ovOkX-38" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="361.25" y="797" width="90" height="40" as="geometry" />
+          <mxGeometry x="349.25" y="797" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
