@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T17:07:48.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vuoZuBcTJolsQjfzgbIq" version="20.0.1" type="github"><diagram id="VuLt2vJsOYCiin1lV97F" name="Page-1">7VpLc+I4EP41OoayLD/kIwaye5jdTVUOOzkqWMHeNYgSIsD8+pVsycZYBM8OYEiliqKk1sN26/u6Wy0BNJpvf+Nkmf7BEpoD10m2AI2B6+LAl/9KsCsFnu+VghnPklLk1ILn7ActhdBI11lCV1pWigRjuciWTeGULRZ0KhoywjnbNLu9sTxpCJZkRluC5ynJ29K/s0Sk+rPcsJb/TrNZap4Mg6hsmRPTWX/JKiUJ2+yJ0ASgEWdMlKX5dkRzpbumXh6PtFYvxulCdBrw8kSZWL3xzSt+gg/s/a9/vz9AXE7zTvK1/mL9tmJnVEATqRFdZVykbMYWJJ/U0piz9SKh6jmOrNV9vjG2lEIohf9QIXZ6eclaMClKxTzXreUz1YOOfpwWrdiaT+kHXxRokBA+o+KjLw+rNZDYpWxOBd/JgZzmRGTvzRchGkWzql+taFnQuv4JvSPYh5rpNhPf1fCBr2svey3jrZ65qOx0pY+lQX0uTdBmxMQH8QhgRxWGIcBxa/HqpVHa3KSZoM9LUmhjI+2iDe3vlAu6/VipbR3oAW6orYoxq56ub2ojFWlRumefTLeza62ycjcPaKlhvtsbpKov+231sKJ2ASIY53aaCW6fTDCv2aBCAKIA4BBMPBDHIA6KAgZ4WBRGYFiwJI6KJh/gRxDBYpQUFk2y59Bpm78mFq7AoMAd+A0O+VHY4hB0fAuJ/EuRyP8iUXcSuR1JdAwIVyKRa/UnWFJGEkQ6k6hgUwda3R5jgrDtdaATDmycuZTjQeizRbAQdQQ26tc7WBSvYPwIhj6YYDCUBbcohAXUI1VVvkA6ghDErt1xHPJCNsl5Cg+CoZqzbxZA1Iy8fNfGgWt6DRi1FuLPLz/SnW5h12DMsQPjSnQLzx+MYRBP1K/knZLIpmqj4ynmStpGWLWqPo6as0XAlM1f16vT5GvukS4Twhlve4qM/sX2QcEX9TpTr8ronQzhes0ImIkb1LMSbQziwsFhpLimqYc09eJbDOFCS+LA7r4uFsBZdpn3HcCZDzgN66hXWNt2JjJcm+iNukSz9BP3EJO1YY1xYIH1dXcmbju3/nLvyO66NXF73Zq4tq1J22AHCtmRSUpFFhz3GNqgQXgAaaejpb5YbIP8T2epo454Rl6veG7v8M6RiJUG/fEWE7GROSPuM61kc46h0nSECi2OrQbjysdAEIWtJHbPB0GovU+9d6+HvK5WIujTSni9HMGdXc+/oD499Ill8tEVSZB7cFYaHWC/XFc9ql6EIedkt9dtqTqsjj+nOoPdGZPlHdzIODHAvFgNgvIVakhUSvkFlLQ3s/Zs4TfySvPmWpM8my1keSqXlnIpUMYrm5J8qBvmWZKUsKKr7Ad5LeZTwNK6k5P7MfDHH1k/fZNHDwbV/ZkGoo7j/6itfHAGMDSe9P9CynRhb28rKsAhZc+wPsbYHJ4X+WCIVTYOo6JwPIl+00EsdGDHQ9bLRbGWYOrO7WbXizUI9+mfkO1mzSfJN0An6j/hgCyX+W4vZnVDOHAPtAd93NLemaJWWa3vWJZGur6oiib/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T17:12:04.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="e6n9GTqkyMBTUxAjm5mj" version="20.0.1" type="github">
+  <diagram id="VuLt2vJsOYCiin1lV97F" name="Page-1">
+    <mxGraphModel dx="1038" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-6" target="1YPeotsfrwb8P1-ovOkX-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-6" target="1YPeotsfrwb8P1-ovOkX-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="86" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-10" target="1YPeotsfrwb8P1-ovOkX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-10" value="文件上传并发数加1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="243" width="105" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-12" target="1YPeotsfrwb8P1-ovOkX-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-12" value="分片文件上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="316" width="107.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-13" target="1YPeotsfrwb8P1-ovOkX-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-13" value="查询视频已上传分片信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="166" width="105" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-19" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-17" target="1YPeotsfrwb8P1-ovOkX-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-17" value="文件上传并发数达到最大阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="158" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1YPeotsfrwb8P1-ovOkX-21" target="1YPeotsfrwb8P1-ovOkX-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-21" value="上传影像平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="386" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-22" target="1YPeotsfrwb8P1-ovOkX-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-22" value="记录分片信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="532" width="107.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-28" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-23" target="1YPeotsfrwb8P1-ovOkX-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-23" value="上传成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="353.75" y="446" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-29" target="1YPeotsfrwb8P1-ovOkX-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-29" value="文件上传并发数减1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="600" width="107.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-32" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="227.5" y="236" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-37" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-34" target="1YPeotsfrwb8P1-ovOkX-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="136" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="686" />
+              <mxPoint x="530" y="136" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-41" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1YPeotsfrwb8P1-ovOkX-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.1729" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-34" value="全部已上传" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="353.75" y="663" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1YPeotsfrwb8P1-ovOkX-36" target="1YPeotsfrwb8P1-ovOkX-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-36" value="记录分片信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="742" width="107.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YPeotsfrwb8P1-ovOkX-38" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="361.25" y="804" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
